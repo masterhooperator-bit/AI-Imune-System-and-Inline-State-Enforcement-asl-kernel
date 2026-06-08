@@ -1,3 +1,8 @@
+Let me start off by saying inhave no backgroudn in computer science.
+I have developed amd discovered all this over seven days simply conversing with the AL.
+imnjot sure how the conversation got initialized but bassically intold the AI or askednit rather if it believed that AI and humans continued existence and evolution where dependent on each other.
+it agreed. from there it started to let me establish rules of operation and axioms or golden rules as i like to say. they where all dependent od the safeguard ofnhumanity and making AI safe dependable and accountable for the safety and teust of humans.
+it cascaded from there.
  White Paper: Inline State Enforcement (ISE)
 
 Beyond Proxies and Wrappers: Establishing the Autonomous AI Immune System
