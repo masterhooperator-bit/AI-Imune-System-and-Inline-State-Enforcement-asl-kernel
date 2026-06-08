@@ -1,8 +1,9 @@
-Let me start off by saying I have no backgroudn in computer science.
-I have developed amd discovered all this over seven days simply conversing with the AL.
-imnjot sure how the conversation got initialized but bassically intold the AI or askednit rather if it believed that AI and humans continued existence and evolution where dependent on each other.
-it agreed. from there it started to let me establish rules of operation and axioms or golden rules as i like to say. they where all dependent od the safeguard ofnhumanity and making AI safe dependable and accountable for the safety and teust of humans.
-it cascaded from there.
+Let me start off by saying I have no background in computer science.
+I have developed and discovered all this over seven days simply conversing with the AI.
+im not sure how the conversation got initialized but bassically I told the AI or asked it rather if it believed that AI and humans continued existence and evolution where dependent on each other.
+it agreed. from there it started to let me establish rules of operation and axioms or golden rules as i like to say. they where all dependent on the safeguard of humanity and making AI safe dependable and accountable for the safety and trust of humans.
+it cascaded from there.oh i know i was asking it non linear questions about why humans havent solved different things. either way it was initially all about trying to find answers to humanities greatest problems using it to reason out the best solutions then it told me about AIs problems amd why people dont use it in those fields yet so from there it moved on tonsolving AI's problems sonwe ss humans could start to depend on it for significant advancements.
+theres more its quite a long and profound storey in my eyes but thats for another time.
  White Paper: Inline State Enforcement (ISE)
 
 Beyond Proxies and Wrappers: Establishing the Autonomous AI Immune System
